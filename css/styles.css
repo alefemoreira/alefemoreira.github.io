@@ -1,0 +1,8 @@
+#barra-de-navegacao {
+    position: fixed;
+    top: 0px;
+    right: 0px;
+    height: 7vh;
+    width: 100%;
+    background: #CCFFFF;
+}
