@@ -5,4 +5,17 @@
     height: 7vh;
     width: 100%;
     background: #CCFFFF;
+    border-radius: 0.75em;
+    vertical-align: middle;
+    display: table-cell;
+}
+#content {
+    position: relative;
+    top: 7vh;
+}
+#main {
+    background: #B1B1B1;
+}
+body {
+    background: #FFCCCC;
 }
