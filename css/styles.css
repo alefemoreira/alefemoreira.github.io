@@ -1,18 +1,20 @@
+.css-redesSociais {
+    max-width: 3%;
+    display: block;
+    height: auto;
+    margin: 1vw;
+    float: left;
+}
 #barra-de-navegacao {
     position: fixed;
     top: 0px;
     right: 0px;
     height: 7vh;
     width: 100%;
-    border-radius: 0.75em;
     vertical-align: middle;
     display: table-cell;
     background: #CCFFFF;
 }
-#content {
-    position: relative;
-    top: 7vh;
-}
 body {
-    background: #FFCCCC;
+    background: #1F1E1C;
 }
