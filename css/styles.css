@@ -1,9 +1,10 @@
-.css-redesSociais {
-    max-width: 3%;
-    display: block;
-    height: auto;
-    margin: 1vw;
-    float: left;
+@font-face {
+    font-family: "introB";
+    src: url("Intro/intro-cond-black-free.otf") format("opentype");
+}
+@font-face {
+    font-family: "introL";
+    src: url("Intro/intro-cond-light-free.otf") format("opentype");
 }
 #menu-de-hamburguer-img {
     position: fixed;
@@ -20,6 +21,18 @@
     right: 0px;
     height: 7vh;
     width: 7vh;
+}
+.css-redesSociais {
+    max-width: 3%;
+    display: block;
+    height: auto;
+    margin: 1vw;
+    float: left;
+}
+.principal {
+    font-size: 10vh;
+    font-family: "introL";
+    color: #e0e0e0;
 }
 body {
     background: #1F1E1C;
