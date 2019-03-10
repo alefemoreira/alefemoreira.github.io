@@ -2,6 +2,13 @@
     font-family: "jaapokki-enchance";
     src: url("Jaapokkienchance-Regular.otf") format("opentype");
 }
+.css-redesSociais {
+    max-width: 3%;
+    display: block;
+    height: auto;
+    margin: 1vw;
+    float: left;
+}
 #menu-de-hamburguer-img {
     position: fixed;
     max-width: 3%;
@@ -10,20 +17,6 @@
     margin: 1vw;
     top: 0px;
     right: 0px;
-}
-#barra-de-navegacao {
-    position: fixed;
-    top: 0px;
-    right: 0px;
-    height: 7vh;
-    width: 7vh;
-}
-.css-redesSociais {
-    max-width: 3%;
-    display: block;
-    height: auto;
-    margin: 1vw;
-    float: left;
 }
 .principal {
     text-transform: capitalize;
