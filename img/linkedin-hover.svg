@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1000"
+   height="1000"
+   viewBox="0 0 264.58333 264.58333"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="linkedin-hover.svg"
+   inkscape:export-filename="/home/batnight99/Documentos/servergit/batnight99.github.io/img/github.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.55"
+     inkscape:cx="500"
+     inkscape:cy="500"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1366"
+     inkscape:window-height="741"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-32.41668)">
+    <path
+       style="fill:#547980;stroke-width:0.51676434;fill-opacity:1"
+       d="M 13.503946,296.44646 C 7.9837362,295.35349 2.9784147,291.10548 1.1991371,286.00339 0.29986902,283.42474 0.25837708,278.07506 0.25837708,164.70835 c 0,-115.402582 0.0265906,-118.673846 0.98708322,-121.434519 1.3570743,-3.900537 5.7111525,-8.254615 9.6116897,-9.61169 2.760672,-0.960492 6.031937,-0.987083 121.43451,-0.987083 115.40258,0 118.67385,0.02659 121.43452,0.987083 3.90054,1.357075 8.25462,5.711153 9.61169,9.61169 0.96049,2.760673 0.98708,6.031937 0.98708,121.434519 0,115.40257 -0.0266,118.67384 -0.98708,121.43451 -1.2774,3.67153 -5.67415,8.18837 -9.3482,9.60354 -2.5214,0.97119 -5.43063,0.99707 -120.40609,1.07112 -64.802252,0.0418 -118.838086,-0.12524 -120.079634,-0.37106 z M 90.950518,181.2448 V 123.3672 H 74.414059 57.877601 v 57.8776 57.87761 h 16.536458 16.536459 z m 49.613282,24.6755 c 0.004,-33.96704 0.20492,-38.08629 2.03254,-41.66871 2.91166,-5.70733 9.9305,-8.56129 17.91725,-7.2854 5.39516,0.86188 9.12974,3.3706 11.2303,7.544 1.66498,3.30799 1.8811,8.05565 1.88502,41.41011 l 0.004,33.20211 h 16.56618 16.56619 l -0.20142,-38.88652 c -0.1437,-27.74194 -0.38554,-39.9853 -0.84386,-42.72048 -3.14014,-18.73988 -9.74438,-28.26202 -22.48643,-32.42141 -3.59884,-1.17477 -5.31505,-1.39576 -12.44286,-1.60222 -10.27535,-0.29765 -15.30029,0.50672 -20.91331,3.3477 -4.19884,2.1252 -6.81916,4.95085 -8.39513,9.05298 l -0.84617,2.20252 -0.038,-7.36389 -0.0381,-7.36389 h -16.53645 -16.53646 v 57.8776 57.87761 H 124.02355 140.56 l 0.004,-33.20211 z M 81.131996,113.7716 c 3.778265,-1.7511 6.516873,-4.45803 8.329125,-8.23277 1.232343,-2.56686 1.488581,-3.76774 1.488581,-6.976319 0,-3.208574 -0.256238,-4.409457 -1.488581,-6.976319 -2.949324,-6.14317 -8.317198,-9.550043 -15.047062,-9.550043 -6.729863,0 -12.097737,3.406873 -15.047061,9.550043 -1.234622,2.571616 -1.48779,3.761802 -1.48394,6.976319 0.0081,6.733869 3.415156,12.099479 9.554683,15.047059 4.242299,2.03672 9.514737,2.0991 13.694255,0.16203 z"
+       id="path878"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>
