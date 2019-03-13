@@ -11,6 +11,16 @@
     top: 0px;
     right: 0px;
 }
+#menu-de-hamburguer-opcoes {
+    position: fixed;
+    max-width: 40vw;
+    display: block;
+    height: auto;
+    transform: rotate(-45deg);
+    margin: 1vw;
+    top: -17.9em;
+    right: -18em;
+}
 #main {
     position: relative;
     top: 15vh;
