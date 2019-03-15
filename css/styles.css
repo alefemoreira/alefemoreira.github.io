@@ -12,13 +12,14 @@
     right: 0px;
 }
 #menu-de-hamburguer-img:active {
-    background: #000000;
+    animation-name: show-bar;
+    animation-duration: 0.5s;
 }
 #menu-de-hamburguer-opcoes {
     width: 0px;
     border-left: 50vw solid #00000000;
 	border-right: 0vh solid #00000000;
-    border-top: 70vh solid #FFBF00;
+    border-top: 70vh solid #FFBF00FFs;
 
     position: fixed;
     display: block;
