@@ -11,6 +11,9 @@
     top: 0px;
     right: 0px;
 }
+#menu-de-hamburguer-img:active {
+    background: #000000;
+}
 #menu-de-hamburguer-opcoes {
     width: 0px;
     border-left: 50vw solid #00000000;
