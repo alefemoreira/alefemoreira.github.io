@@ -17,9 +17,9 @@
 }
 #menu-de-hamburguer-opcoes {
     width: 0px;
-    border-left: 50vw solid #00000000;
+    border-left: 40vw solid #00000000;
 	border-right: 0vh solid #00000000;
-    border-top: 70vh solid #FFBF00FF;
+    border-top: 40vh solid #FFBF00AA;
 
     position: fixed;
     display: block;
