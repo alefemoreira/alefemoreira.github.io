@@ -4,16 +4,12 @@
 }
 #menu-de-hamburguer-img {
     position: fixed;
-    max-width: 3%;
+    max-width: 10vh;
     display: block;
     height: auto;
     margin: 1vw;
     top: 0px;
     right: 0px;
-}
-#menu-de-hamburguer-img:active {
-    animation-name: show-bar;
-    animation-duration: 0.5s;
 }
 #menu-de-hamburguer-opcoes {
     width: 0px;
