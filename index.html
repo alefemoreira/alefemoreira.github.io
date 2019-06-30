@@ -3,7 +3,7 @@
     <meta charset='UTF-8'>
 
     <head>
-        <meta name="viewport" content="width=device-width, initial-scale=1"> <!--FAZ RESPONSIVE FUNCINOAR EM DESKTOPS AND MOBILE DEVICES-->
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no"><!--FAZ RESPONSIVE FUNCINOAR EM DESKTOPS AND MOBILE DEVICES-->
         <title>Álefe de Lima Moreira - Desenvolvedor WEB e de softwares</title>
         <link rel='icon' href='favicon.ico' type='image/x-icon' />
 
@@ -29,20 +29,27 @@
             </div>
         </header>
 
-        <div id='container' class="container">
-                <div class="col-12 col-md-9 col-xl-8 py-md-3 pl-md-5 bd-content">
-                    <div id="apresentação">
-                        <h1 class="principal">
-                            Eu sou Álefe,
-                            <br>
-                            desenvolvedor web/software
-                        </h1>
-                    </div>
-                    <div class="linguagens">
-                        <p>Front e Back End Developer/Java/React/Python</p>
-                    </div>
+        <main id='container' class="container-fluid" >
+            <div id="home">
+                <div class="container">
+                    <h2 style="text-align:center;"><b>Serviços</b></h2>
                 </div>
-        </div>
+                <div class="row linha-tabela"><!--o width:100vw; impede do div estourar o layout-->
+                    <div id="softwares" class="col-sm-6 servicos" style="background-color:#263859ff;"><!-- col-xs-6 col-md-6 col-lg-6-->
+                        <a class="nonunderline" href="#">
+                            <img class="center img-responsive img-margin" src="img/servicos/softwares.svg" alt=""/>
+                            <h2 style="text-align:center;">Desenvolvimento de Softwares</h2>
+                        </a>
+                    </div>
+
+                    <div id="web-sites" class="col-sm-6 servicos" style="background-color:#002f35ff;">
+                        <a class="nonunderline" href="#">
+                            <img class="center img-responsive img-margin" src="img/servicos/websites.svg" alt="">
+                            <h2 style="text-align:center;">Desenvolvimento de Websites</h2>
+                        </a>
+                    </div>
+            </div>
+        </main>
 
         <!--<footer id="footer" class="bd-footer text-muted" style="background-color:#444444ff">
             <div class="container-fluid p-3 p-md-5">

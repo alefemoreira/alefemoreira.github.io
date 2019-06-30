@@ -7,8 +7,36 @@
     top: 15vh;
 }
 #footer {
-    /*position: relative;*/
+    position: relative;
     /*position: static;*/
+}
+.linha-tabela { /*IMPEDE QUE OS DIVS ESTOUREM O LAYOUT*/
+    width:100vw;
+    margin: auto;
+}
+.servicos {
+    width: 50vw;
+    border-right: 0.3vw solid #1F1E1Cff;
+    border-left: 0.15vw solid #1F1E1Cff;*/
+    text-align:center;
+    /*border-radius:10px;*/
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.img-responsive {
+    max-width: 100%;
+    display:block;
+    height: auto;
+}
+.img-margin {
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+.nonunderline:link {
+    text-decoration: none;
 }
 .principal {
     text-transform: capitalize;
@@ -23,18 +51,16 @@
     margin: 1vw;
     float: left;
 }
-.linguagens {
-    font-size: 2vw;
-    /*font-family: "jaapokki-enchance";*/
-    color: #FFFFFF;
-}
 body {
     background: #1F1E1C;
+}
+h2 {
+    color:white;
 }
 /*Media querys*/
 @media (max-width: 767.98px) {
   #container{
-    margin-top: 110px;
+    margin-top: 115px;
     padding-right: 0;
     padding-left: 0;
   }
