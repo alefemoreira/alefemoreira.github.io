@@ -2,12 +2,12 @@
     font-family: "jaapokki-enchance";
     src: url("Jaapokkienchance-Regular.otf") format("opentype");
 }
+
 #logo {
     max-width: 40vh;
     display: block;
     height: auto;
 }
-
 #main {
     position: relative;
     top: 15vh;
