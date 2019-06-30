@@ -5,11 +5,38 @@
     <head>
         <title>Álefe de Lima Moreira - Desenvolvedor WEB e de softwares</title>
         <link rel='icon' href='favicon.ico' type='image/x-icon' />
+
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+        integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
         <link id='theme-style' rel='stylesheet' href='css/styles.css'>
     </head>
 
     <body>
-        <div id="main">
+      <nav class="navbar navbar-expand-lg navbar-dark" style="background-color: #233142">
+        <a class="navbar-brand" href="#">
+          <img id="logo" src="icone.svg" />
+        </a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+          <ul class="navbar-nav mr-auto">
+            <li class="nav-item active">
+              <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#">Link</a>
+            </li>
+          </ul>
+          <form class="form-inline my-2 my-lg-0">
+            <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
+            <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+          </form>
+        </div>
+      </nav>
+
+        <div class="container">
                 <div id="content">
                     <div id="apresentação">
                         <h1 class="principal">
@@ -22,7 +49,7 @@
                         <p>Front e Back End Developer/Java/React/Python</p>
                     </div>
                     <div id="redes-sociais">
-                        <a href="https://github.com/batnight99" target="_blank">
+                        <a href="https://github.com/alefemoreira" target="_blank">
                           <img class="css-redesSociais"src="img/github.svg" onmouseover="src='img/github-hover.svg'"
                            onmouseout="src='img/github.svg'" alt="github">
                         </a>
@@ -41,9 +68,5 @@
                     </div>
                 </div>
         </div>
-        <nav id="menu-de-hamburguer">
-            <div id="menu-de-hamburguer-opcoes"></div>
-            <img id="menu-de-hamburguer-img" src="img/menu-de-hamburguer.svg" alt="menu-de-hamburguer">
-        </nav>
     </body>
     </html>

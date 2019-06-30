@@ -2,26 +2,12 @@
     font-family: "jaapokki-enchance";
     src: url("Jaapokkienchance-Regular.otf") format("opentype");
 }
-#menu-de-hamburguer-img {
-    position: fixed;
-    max-width: 6%;
+#logo {
+    max-width: 40vh;
     display: block;
     height: auto;
-    margin: 2vw;
-    top: 0px;
-    right: 0px;
 }
-#menu-de-hamburguer-opcoes {
-    width: 0px;
-    border-left: 40vw solid #00000000;
-	border-right: 0vh solid #00000000;
-    border-top: 40vh solid #FFBF00AA;
 
-    position: fixed;
-    display: block;
-    top: 0vh;
-    right: 0vw;
-}
 #main {
     position: relative;
     top: 15vh;
@@ -29,7 +15,7 @@
 .principal {
     text-transform: capitalize;
     font-size: 5vw;
-    font-family: "jaapokki-enchance";
+    /*font-family: "jaapokki-enchance";*/
     color: #FFFFFF;
 }
 .css-redesSociais {
@@ -41,7 +27,7 @@
 }
 .linguagens {
     font-size: 2vw;
-    font-family: "jaapokki-enchance";
+    /*font-family: "jaapokki-enchance";*/
     color: #FFFFFF;
 }
 body {
