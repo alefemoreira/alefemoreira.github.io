@@ -77,9 +77,9 @@
      inkscape:current-layer="layer1"
      showgrid="false"
      units="px"
-     inkscape:window-width="1366"
-     inkscape:window-height="741"
-     inkscape:window-x="0"
+     inkscape:window-width="1920"
+     inkscape:window-height="1053"
+     inkscape:window-x="1366"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:snap-bbox="true"
@@ -161,11 +161,11 @@
          id="tspan816"
          sodipodi:role="line">A</tspan></text>
     <circle
-       r="4.6838217"
-       cy="284.88571"
-       cx="37.243591"
+       r="6.5053077"
+       cy="283.03363"
+       cx="39.095676"
        id="circle827"
-       style="opacity:1;vector-effect:none;fill:#444444;fill-opacity:1;stroke:#ffffff;stroke-width:0.15735674;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       style="opacity:1;vector-effect:none;fill:#444444;fill-opacity:1;stroke:#ffffff;stroke-width:0.21855102;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
        inkscape:export-xdpi="95.999977"
        inkscape:export-ydpi="95.999977" />
     <path
@@ -175,14 +175,14 @@
        id="path829"
        d="M 5.9692783,290.99377 27.175536,312.20003 35.98813,297.68123 14.854791,276.54789 H 11.603543 Z"
        style="fill:url(#linearGradient835);fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="matrix(0.39339184,0,0,0.39339184,32.024302,173.23877)"
+       transform="matrix(0.54637755,0,0,0.54637755,31.846662,127.96843)"
        inkscape:export-xdpi="95.999977"
        inkscape:export-ydpi="95.999977" />
     <g
        id="g833"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.47299957px;line-height:1.25;font-family:Prisma;-inkscape-font-specification:Prisma;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#eaeaea;fill-opacity:1;stroke:none;stroke-width:0.46182534"
        aria-label="A"
-       transform="matrix(0.39339184,0,0,0.39339184,32.024302,173.23877)"
+       transform="matrix(0.54637755,0,0,0.54637755,31.846662,127.96843)"
        inkscape:export-xdpi="95.999977"
        inkscape:export-ydpi="95.999977">
       <path

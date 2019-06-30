@@ -6,6 +6,10 @@
     position: relative;
     top: 15vh;
 }
+#footer {
+    /*position: relative;*/
+    /*position: static;*/
+}
 .principal {
     text-transform: capitalize;
     font-size: 5vw;
