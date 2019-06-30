@@ -3,11 +3,6 @@
     src: url("Jaapokkienchance-Regular.otf") format("opentype");
 }
 
-#logo {
-    max-width: 50%;
-    display: block;
-    height: auto;
-}
 #main {
     position: relative;
     top: 15vh;
