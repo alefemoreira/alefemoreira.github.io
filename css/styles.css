@@ -16,8 +16,8 @@
 }
 .servicos {
     width: 50vw;
-    border-right: 0.15vw solid #313131FF;
-    border-left: 0.15vw solid #313131FF;*/
+    border-right: 0.15vw solid #1F1E1CFF;
+    border-left: 0.15vw solid #1F1E1CFF;*/
     text-align:center;
     /*border-radius:10px;*/
 }
@@ -47,12 +47,6 @@
 .item {
     font-size: 1.5vw;
 }
-.principal {
-    text-transform: capitalize;
-    font-size: 5vw;
-    /*font-family: "jaapokki-enchance";*/
-    color: #FFFFFF;
-}
 .css-redesSociais {
     max-width: 3%;
     display: block;
@@ -60,8 +54,24 @@
     margin: 1vw;
     float: left;
 }
+.flex-row{
+    display: flex;
+    flex-direction: row;
+}
+.flex-column{
+    display: flex;
+    flex-direction: column;
+}
+.teste-section {
+    background-color: red;
+    display: flex;
+    flex-direction: column;
+}
+.teste-div {
+    background-color: yellow;
+}
 body {
-    background: #313131FF;
+    background: #1F1E1CFF;
 }
 h2 {
     color:white;
