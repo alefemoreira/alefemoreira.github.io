@@ -16,8 +16,8 @@
 }
 .servicos {
     width: 50vw;
-    border-right: 0.3vw solid #1F1E1Cff;
-    border-left: 0.15vw solid #1F1E1Cff;*/
+    border-right: 0.15vw solid #313131FF;
+    border-left: 0.15vw solid #313131FF;*/
     text-align:center;
     /*border-radius:10px;*/
 }
@@ -61,7 +61,7 @@
     float: left;
 }
 body {
-    background: #1F1E1C;
+    background: #313131FF;
 }
 h2 {
     color:white;
