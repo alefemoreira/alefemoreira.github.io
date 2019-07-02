@@ -14,6 +14,9 @@
     background-color: #F2E9E1FF;
     padding-bottom: 3vh;
 }
+.flex-row {
+        float: left;
+}
 .linha-tabela { /*IMPEDE QUE OS DIVS ESTOUREM O LAYOUT*/
     width:97vw;
     margin: auto;
@@ -43,6 +46,14 @@
 }
 .item {
     font-size: 1.5vw;
+}
+.wrapper {
+    display: -webkit-flex;
+    display: flex;
+    -webkit-align-items: center; /*o -webtik- é para funcionar no Safari*/
+    align-items: center;
+    -webkit-justify-content: center;
+    justify-content: center;
 }
 .css-redesSociais {
     max-width: 3%;
@@ -97,7 +108,6 @@ p {
         text-align:center;
     }
 }
-
 :target:before {
     content:"";
     display:block;
