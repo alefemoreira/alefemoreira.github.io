@@ -45,7 +45,7 @@
     color: white;
 }
 .item {
-    font-size: 1.5vw;
+    font-size: 3vh;
 }
 .wrapper {
     display: -webkit-flex;
