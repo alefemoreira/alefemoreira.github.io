@@ -10,8 +10,8 @@
     position: relative;
     /*position: static;*/
 }
-#fale-cmg {
-    background-color: #F2E9E1FF;
+.fale-cmg {
+    background-color: #F2E9E1FF!important;
     padding-bottom: 3vh;
 }
 .flex-row {
