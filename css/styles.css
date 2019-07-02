@@ -10,7 +10,7 @@
     position: relative;
     /*position: static;*/
 }
-#localizacao {
+#fale-cmg {
     background-color: #F2E9E1FF;
     padding-bottom: 3vh;
 }
@@ -108,9 +108,9 @@ p {
         text-align:center;
     }
 }
-:target:before {
+/*:target::before {
     content:"";
     display:block;
-    height:90px; /* fixed header height*/
-    margin:-90px 0 0; /* negative fixed header height */
-}
+    height:90px; /* fixed header height*
+    margin:-90px 0 0; /* negative fixed header height *
+}*/

@@ -10,24 +10,39 @@
         <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
         integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
         <link id='theme-style' rel='stylesheet' href='css/styles.css'>
+        <script
+          src="https://code.jquery.com/jquery-3.4.1.min.js"
+          integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo="
+          crossorigin="anonymous">
+        </script>
+
+        <script type="text/javascript" src="scripts/script.js"></script>
     </head>
 
     <body>
         <header class="navbar fixed-top navbar-expand navbar-dark flex-md-row flex-column bd-navbar" style="background-color: #444444ff"><!--bd-navbar-->
-            <a href="#">
+            <a class="scroll" href="#page-top">
                 <img id="logo" src="logo.svg" alt="Alefe Moreira"/>
             </a>
             <div class="navbar-nav-scroll">
                 <ul class="navbar-nav bd-navbar-nav flex-row">
                     <li class="nav-item">
-                        <a class="nav-link active" href="#"><b>Home</b><span class="sr-only">(current)</span></a>
+                        <a class="nav-link active scroll" href="#page-top"><b>Home</b><span class="sr-only">(current)</span></a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link page-scroll" href="#servicos">Serviços</a>
+                        <a class="nav-link scroll" href="#servicos">Serviços</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link scroll" href="#quem-sou-eu">Quem sou</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link scroll" href="#fale-cmg">Fale comigo</a>
                     </li>
                 </ul>
             </div>
         </header>
+
+        <a id="page-top"></a>
 
         <main id='container' class="container-fluid" >
             <div id="home">
@@ -96,9 +111,10 @@
                         <h3 style="text-align: center;">Valores</h3>
                         <p style="text-align: center;">Agir sempre com ética, respeito profissional e pessoal e claro com sabedória e inovação.</p>
                     </div>
+                    <div id="protecao"></div>
                 </section>
 
-                <section id="localizacao"><!--class="container"-->
+                <section id="fale-cmg"><!--class="container"-->
                     <div class="linha-tabela container" style="padding-top: 0.8vh;">
                         <h2 style="text-align:center;color:black!important;"><b>Fale comigo</b></h2>
                         <div class="center">
