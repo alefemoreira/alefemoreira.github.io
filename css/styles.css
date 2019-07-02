@@ -10,6 +10,10 @@
     position: relative;
     /*position: static;*/
 }
+#localizacao {
+    background-color: #F2E9E1FF;
+    padding-bottom: 3vh;
+}
 .linha-tabela { /*IMPEDE QUE OS DIVS ESTOUREM O LAYOUT*/
     width:97vw;
     margin: auto;
