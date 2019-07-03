@@ -3,12 +3,16 @@
     src: url("Jaapokkienchance-Regular.otf") format("opentype");
 }
 #main {
-    position: relative;
-    top: 15vh;
+    position: absolute;
+    bottom: 0;
 }
 #footer {
     position: relative;
     /*position: static;*/
+}
+#redes-sociais {
+    display: block!important;
+    margin: auto!important;
 }
 #softwares{
     -webkit-filter: grayscale(100%);
@@ -43,7 +47,8 @@
     padding-bottom: 3vh;
 }
 .flex-row {
-        float: left;
+    display: flex;
+    flex-direction: row;
 }
 .linha-tabela { /*IMPEDE QUE OS DIVS ESTOUREM O LAYOUT*/
     width:97vw;
@@ -85,10 +90,9 @@
 }
 .css-redesSociais {
     max-width: 3%;
-    display: block;
     height: auto;
-    margin: 1vw;
-    float: left;
+    margin-left: 1vw;
+    margin-right: 1vw;
 }
 body {
     background: #1F1E1CFF;
