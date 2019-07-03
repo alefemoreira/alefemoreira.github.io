@@ -10,6 +10,34 @@
     position: relative;
     /*position: static;*/
 }
+#softwares{
+    -webkit-filter: grayscale(100%);
+    filter: grayscale(100%);
+    -webkit-transition:1s;
+    transition: 1s;
+}
+#softwares:hover{
+    -webkit-filter: grayscale(0%);
+    filter: grayscale(0%);
+}
+#softwares:focus{
+    -webkit-filter: grayscale(0%);
+    filter: grayscale(0%);
+}
+#web-sites{
+    -webkit-filter: grayscale(100%);
+    filter: grayscale(100%);
+    -webkit-transition:1s;
+    transition: 1s;
+}
+#web-sites:hover{
+    -webkit-filter: grayscale(0%);
+    filter: grayscale(0%);
+}
+#web-sites:focus{
+    -webkit-filter: grayscale(0%);
+    filter: grayscale(0%);
+}
 .fale-cmg {
     background-color: #F2E9E1FF!important;
     padding-bottom: 3vh;
