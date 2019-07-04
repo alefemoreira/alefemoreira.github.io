@@ -11,8 +11,8 @@
     /*position: static;*/
 }
 #redes-sociais {
-    display: block!important;
-    margin: auto!important;
+    background:red;
+    /*display:inline;*/
 }
 #softwares{
     -webkit-filter: grayscale(100%);
@@ -55,7 +55,7 @@
     margin: auto;
 }
 .center {
-    display: block;
+    /*display: block;*/
     margin-left: auto;
     margin-right: auto;
 }
@@ -87,12 +87,14 @@
     align-items: center;
     -webkit-justify-content: center;
     justify-content: center;
+    flex: auto;
 }
 .css-redesSociais {
     max-width: 3%;
     height: auto;
-    margin-left: 1vw;
-    margin-right: 1vw;
+    margin: 2vw 1vw;
+    margin-color: solid green;
+    transition: 1s;
 }
 body {
     background: #1F1E1CFF;
@@ -133,6 +135,9 @@ p {
         margin-top: 70px;
         padding-right: 0;
         padding-left: 0;
+    }
+    .tam {
+        height: 66px;
     }
     .servicos {
         border-right: 0.15vw solid #1F1E1CFF;
